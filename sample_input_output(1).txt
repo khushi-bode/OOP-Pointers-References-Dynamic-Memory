@@ -1,0 +1,49 @@
+SAMPLE INPUT / OUTPUT
+
+PROGRAM 1: POINTERS AND REFERENCES
+----------------------------------
+
+Sample Input:
+Enter student name: Asha
+Enter initial marks: 65
+
+Sample Output:
+Initial marks: 65
+Address stored in pointer: 0x61fef8
+Marks after pointer update: 78
+Marks after reference update: 85
+
+Student: Asha
+Final marks: 85
+
+Note: The pointer address may be different on every execution.
+
+
+PROGRAM 2: DYNAMIC MEMORY USING new[] AND delete[]
+---------------------------------------------------
+
+Sample Input:
+Enter number of products: 3
+Enter prices of 3 products:
+Product 1: 100
+Product 2: 250
+Product 3: 150
+
+Sample Output:
+Total price: Rs. 500.00
+Average price: Rs. 166.67
+Dynamic memory released successfully.
+
+TEST CASE 2
+
+Input:
+Enter number of products: 4
+Product 1: 100
+Product 2: 200
+Product 3: 300
+Product 4: 400
+
+Output:
+Total price: Rs. 1000.00
+Average price: Rs. 250.00
+Dynamic memory released successfully.
